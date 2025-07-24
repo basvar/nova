@@ -21,8 +21,8 @@ Una vez ingresado hara en automatico un escaneo de subdominios del dominio:
         style="float: left; margin-right: 10px;" />
 </p>
 
-======
-Nota: El archivo **bv.txt** es el encargado de hacer el escaneo de subdominios, puedes personalizar el archivo para un escaneo mejorado.
+# Nota: 
+El archivo **bv.txt** es el encargado de hacer el escaneo de subdominios, puedes personalizar el archivo para un escaneo mejorado.
 ======
 
 Creador
